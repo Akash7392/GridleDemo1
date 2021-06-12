@@ -17,7 +17,7 @@ public class DebugLearn {
         System.out.println("aaaa");
         System.out.println("aaaa");
         System.out.println("aaaa");
-        System.out.println("gradle demo     ");
+     
        System.out.println(obj.a);
         DebugLearn.sd();
         for(int i=1; i<=10; i++)
