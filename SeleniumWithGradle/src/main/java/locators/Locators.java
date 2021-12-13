@@ -1,2 +1,17 @@
-package locators;public class Locators {
+package locators;
+
+
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Locators {
+    static WebDriver d;
+
+    public static void main(String[] args) {
+       WebDriverManager.chromedriver().setup();
+        d= new ChromeDriver();
+
+    }
 }

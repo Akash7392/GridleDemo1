@@ -1,12 +1,105 @@
-InterfcaseExplore/BasicB.java
- InterfcaseExplore.BasicB
-InterfcaseExplore/AccessB.java
- InterfcaseExplore.AccessB
+IfBasicJava/FindCubeofnaturalno.java
+ IfBasicJava.FindCubeofnaturalno
+enumDemo/EnumLearn.java
+ enumDemo.EnumLearn
+ enumDemo.EnumLearn$level
+IfBasicJava/DaysInMonth.java
+ IfBasicJava.DaysInMonth
 InterfcaseExplore/BasicA.java
  InterfcaseExplore.BasicA
-InterfcaseExplore/AccessA.java
- InterfcaseExplore.AccessA
+IfBasicJava/QuadredicEquation.java
+ IfBasicJava.QuadredicEquation
+IfBasicJava/SumOFNnumber.java
+ IfBasicJava.SumOFNnumber
 debugging/DebugLearn.java
  debugging.DebugLearn
+streams/StreamByJavaToBlog.java
+ streams.StreamByJavaToBlog
+IfBasicJava/IfElseExcersize.java
+ IfBasicJava.IfElseExcersize
+IfBasicJava/OwelOrConsonent.java
+ IfBasicJava.OwelOrConsonent
+IfBasicJava/FloatingValuePN.java
+ IfBasicJava.FloatingValuePN
+IfBasicJava/GetweekDayByswitch.java
+ IfBasicJava.GetweekDayByswitch
+streams/Employee.java
+ streams.Employee
+streams/StreamGeneratemtd.java
+ streams.StreamGeneratemtd
+InterfcaseExplore/BasicB.java
+ InterfcaseExplore.BasicB
+FunctionalInterfaces/addition1.java
+ FunctionalInterfaces.addition1
+streams/StreamGetListOfEmployees.java
+ streams.StreamGetListOfEmployees
+IfBasicJava/GreatestNumber.java
+ IfBasicJava.GreatestNumber
+InterfcaseExplore/AccessA.java
+ InterfcaseExplore.AccessA
+streams/LambadaHelloWorldMain.java
+ streams.LambadaHelloWorldMain
+FunctionalInterfaces/Addition.java
+ FunctionalInterfaces.Addition
+streams/HelloWorld.java
+ streams.HelloWorld
+IfBasicJava/FloatingNocompare.java
+ IfBasicJava.FloatingNocompare
+streams/PrimitiveStream.java
+ streams.PrimitiveStream
+IfBasicJava/SumAndAvg5no.java
+ IfBasicJava.SumAndAvg5no
+IfBasicJava/LeapYear.java
+ IfBasicJava.LeapYear
+enumDemo/PureEnum.java
+ enumDemo.PureEnum
+streams/LearnStreams.java
+ streams.LearnStreams
 streams/StreamDemo.java
  streams.StreamDemo
+FunctionalInterfaces/lengthcal.java
+ FunctionalInterfaces.lengthcal
+InterfcaseExplore/AccessB.java
+ InterfcaseExplore.AccessB
+IfBasicJava/TableOfGivenNO.java
+ IfBasicJava.TableOfGivenNO
+IfBasicJava/Oldnumandsum.java
+ IfBasicJava.Oldnumandsum
+IfBasicJava/RightTriangleFrominputno.java
+ IfBasicJava.RightTriangleFrominputno
+IfBasicJava/RightTrianleRepeatNum.java
+ IfBasicJava.RightTrianleRepeatNum
+IfBasicJava/RATnumincreaseBYyone.java
+ IfBasicJava.RATnumincreaseBYyone
+IfBasicJava/PyramidCreation.java
+ IfBasicJava.PyramidCreation
+IfBasicJava/FlyodTriangle.java
+ IfBasicJava.FlyodTriangle
+arrayExcersize/ArrayContsinsNO.java
+ arrayExcersize.ArrayContsinsNO
+arrayExcersize/SrotingIntegerAndStringArray.java
+ arrayExcersize.SrotingIntegerAndStringArray
+arrayExcersize/AddSpecificnoAtindex.java
+ arrayExcersize.AddSpecificnoAtindex
+arrayExcersize/MInandMAxNo.java
+ arrayExcersize.MInandMAxNo
+arrayExcersize/DuplictenuminArray.java
+ arrayExcersize.DuplictenuminArray
+arrayExcersize/DuplicteStringInArray.java
+ arrayExcersize.DuplicteStringInArray
+arrayExcersize/CommonElementInTwoArray.java
+ arrayExcersize.CommonElementInTwoArray
+arrayExcersize/Removeduplicate.java
+ arrayExcersize.Removeduplicate
+arrayExcersize/SecLargeElement.java
+ arrayExcersize.SecLargeElement
+kushAssignment1/MIssingNumInarray.java
+ kushAssignment1.MIssingNumInarray
+kushAssignment1/ArrayEquality.java
+ kushAssignment1.ArrayEquality
+assignment2/PosiAndNegandSumofeach.java
+ assignment2.PosiAndNegandSumofeach
+IfBasicJava/EvenNumBYStrem.java
+ IfBasicJava.EvenNumBYStrem
+assignment2/FrequencyofChar.java
+ assignment2.FrequencyofChar

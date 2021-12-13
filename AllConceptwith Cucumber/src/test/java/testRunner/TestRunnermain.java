@@ -7,14 +7,14 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-      features = {"C:\\Users\\Akash\\IdeaProjects\\AllConceptwith Cucumber\\src\\test\\resources\\FeaturesFiles\\WebDriverManager.feature"},
-        glue="C:\\Users\\Akash\\IdeaProjects\\AllConceptwith Cucumber\\src\\test\\java\\stepDefinition_TesterImplementation",
-         tags = "@aks"
+      features = {"C:\\Users\\Akash\\IdeaProjects\\AllConceptwith Cucumber\\src\\test\\resources\\FeaturesFiles\\LoginPageHRM.feature",
+                 "C:\\Users\\Akash\\IdeaProjects\\AllConceptwith Cucumber\\src\\test\\resources\\FeaturesFiles\\AdminNewInHRM.feature"},
+
+
+        glue="C:\\Users\\Akash\\IdeaProjects\\AllConceptwith Cucumber\\src\\test\\java\\stepDefinition_Tester\\StepDefHRM.java",
+         tags = ("@AKASH or @A")
 
 )
 public class TestRunnermain {
-
-
-
 
 }

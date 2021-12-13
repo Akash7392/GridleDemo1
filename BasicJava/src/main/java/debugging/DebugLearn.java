@@ -1,6 +1,6 @@
-package debugging;
+ package debugging;
 
-public class DebugLearn {
+final class DebugLearn {
         int s;
       int a=6;
        static public  void sd()

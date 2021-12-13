@@ -31,6 +31,7 @@ public class StreamDemo {
 
     public  void FIndingAlphabetInStringBYUsing_Stream() {
         //to count the string stating with alphabet "A"
+        String df="sdf";
         ArrayList<String> a = new ArrayList<String>();
         a.add("Akash");
         a.add("Prakash");
@@ -98,6 +99,12 @@ public class StreamDemo {
 
     public static void main(String[] args) {
         StreamDemo a=new StreamDemo();
+
+        String dir = System.getProperty("user.dir");
+        System.out.println("----------------------");
+        System.out.println(dir);
+
+        System.out.println("----------------------");
         a.FIndingAlphabetInString();
       a.FIndingAlphabetInStringBYUsing_Stream();
       a.printresultUsingLamada();
